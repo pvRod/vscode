@@ -1,0 +1,17 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.iconTheme": "file-icons",
+    "hediet.vscode-drawio.resizeImages": null,
+    "hediet.vscode-drawio.theme": "atlas",
+    "remote.autoForwardPortsSource": "hybrid",
+    "githubPullRequests.pullBranch": "never",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "explorer.compactFolders": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Dark Minimal Line Free",
+}
